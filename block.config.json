@@ -1,0 +1,8 @@
+{
+  "name": "authentication",
+  "type": "appBlock",
+  "source": {
+    "https": "https://github.com/Digambaran/authentication",
+    "ssh": "git@github.com:Digambaran/authentication.git"
+  }
+}
